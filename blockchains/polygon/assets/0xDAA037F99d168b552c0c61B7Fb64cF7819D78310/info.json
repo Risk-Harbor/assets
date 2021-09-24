@@ -1,0 +1,11 @@
+{
+    "name": "BarnBridge junior amDAI",
+    "website": "https://barnbridge.com/",
+    "description": "Barnbridge’s aave DAI Smart Bond protocol (Polygon)",
+    "explorer": "https://polygonscan.com/token/0xdaa037f99d168b552c0c61b7fb64cf7819d78310",
+    "type": "POLYGON",
+    "symbol": "bb_amDAI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xdaa037f99d168b552c0c61b7fb64cf7819d78310"
+}

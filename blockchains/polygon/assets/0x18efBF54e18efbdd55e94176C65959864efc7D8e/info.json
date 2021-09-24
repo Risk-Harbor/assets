@@ -1,0 +1,11 @@
+{
+    "name": "BarnBridge junior amUSDT",
+    "website": "https://barnbridge.com/",
+    "description": "Barnbridge’s aave USDT Smart Bond protocol (Polygon)",
+    "explorer": "https://polygonscan.com/token/0x18efbf54e18efbdd55e94176c65959864efc7d8e",
+    "type": "POLYGON",
+    "symbol": "bb_amUSDT",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x18efbf54e18efbdd55e94176c65959864efc7d8e"
+}
