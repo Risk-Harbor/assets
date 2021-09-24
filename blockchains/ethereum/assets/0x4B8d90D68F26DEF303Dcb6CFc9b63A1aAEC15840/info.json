@@ -2,7 +2,7 @@
     "name": "Barnbridge compound USDC",
     "type": "ERC20",
     "symbol": "bb_cUSDC",
-    "decimals": 18,
+    "decimals": 6,
     "website": "https://app.barnbridge.com/smart-yield/pool?m=compound/v2&t=USDC",
     "description": "Barnbridge’s compound USDC Smart Bond protocol",
     "explorer": "https://etherscan.io/address/0x4b8d90d68f26def303dcb6cfc9b63a1aaec15840",

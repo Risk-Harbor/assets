@@ -1,0 +1,11 @@
+{
+    "name": "Curve.fi DAI/USDC/USDT",
+    "type": "ERC20",
+    "symbol": "3Crv",
+    "decimals": 18,
+    "website": "https://curve.fi/",
+    "description": "Curve fi 3 pool",
+    "explorer": "https://etherscan.io/address/0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+    "status": "active",
+    "id": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490"
+}
