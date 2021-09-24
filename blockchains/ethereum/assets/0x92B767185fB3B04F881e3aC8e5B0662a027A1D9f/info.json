@@ -1,0 +1,11 @@
+{
+    "name": "Cream DAI Stablecoin",
+    "type": "ERC20",
+    "symbol": "crDAI",
+    "decimals": 8,
+    "website": "https://cream.finance/",
+    "description": "C.R.E.A.M. Finance is a decentralized lending protocol for individuals and protocols to access financial services. The protocol is permissionless, transparent, and non-custodial.",
+    "explorer": "https://etherscan.io/token/0x92b767185fb3b04f881e3ac8e5b0662a027a1d9f",
+    "status": "active",
+    "id": "0x92b767185fb3b04f881e3ac8e5b0662a027a1d9f"
+}

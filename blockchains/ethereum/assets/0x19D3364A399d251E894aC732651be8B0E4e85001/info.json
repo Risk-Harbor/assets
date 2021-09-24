@@ -1,0 +1,11 @@
+{
+    "name": "DAI yVault",
+    "type": "ERC20",
+    "symbol": "yvDAI",
+    "decimals": 18,
+    "website": "https://yearn.finance/",
+    "description": "yearn Vault DAI",
+    "explorer": "https://etherscan.io/token/0x19D3364A399d251E894aC732651be8B0E4e85001",
+    "status": "active",
+    "id": "0x19D3364A399d251E894aC732651be8B0E4e85001"
+}
