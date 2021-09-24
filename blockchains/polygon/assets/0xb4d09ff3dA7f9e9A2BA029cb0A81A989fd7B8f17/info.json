@@ -1,0 +1,11 @@
+{
+    "name": "IRON Stableswap 3USD",
+    "website": "https://iron.finance/",
+    "description": "Iron Finance is the home of DeFi. Our community is building a comprehensive, decentralized trading platform for the future of finance.",
+    "explorer": "https://polygonscan.com/token/0xb4d09ff3da7f9e9a2ba029cb0a81a989fd7b8f17",
+    "type": "POLYGON",
+    "symbol": "IS3USD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xb4d09ff3da7f9e9a2ba029cb0a81a989fd7b8f17"
+}
