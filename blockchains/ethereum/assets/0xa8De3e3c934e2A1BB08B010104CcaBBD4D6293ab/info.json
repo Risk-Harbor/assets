@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped Anchor UST",
+    "type": "ERC20",
+    "symbol": "aUST",
+    "decimals": 18,
+    "website": "https://app.anchorprotocol.com/",
+    "description": "Wrapped anchor UST token",
+    "explorer": "https://etherscan.io/token/0xa8de3e3c934e2a1bb08b010104ccabbd4d6293ab",
+    "status": "active",
+    "id": "0xa8De3e3c934e2A1BB08B010104CcaBBD4D6293ab"
+}
