@@ -5,7 +5,7 @@
     "decimals": 6,
     "website": "https://app.barnbridge.com/smart-yield/pool?m=compound/v2&t=USDC",
     "description": "Barnbridge’s compound USDC Smart Bond protocol",
-    "explorer": "https://etherscan.io/address/0x4b8d90d68f26def303dcb6cfc9b63a1aaec15840",
+    "explorer": "https://etherscan.io/token/0x4b8d90d68f26def303dcb6cfc9b63a1aaec15840",
     "status": "active",
     "id": "0x4B8d90D68F26DEF303Dcb6CFc9b63A1aAEC15840"
 }
