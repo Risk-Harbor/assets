@@ -1,0 +1,11 @@
+{
+    "name": "1S-BTC/USD",
+    "website": "https://offchainlabs.com/",
+    "description": "Arbitrum 1S-BTC/USD",
+    "explorer": "https://arbiscan.io/address/0x052814194f459af30edb6a506eabfc85a4d99501",
+    "type": "ARBITRUM",
+    "symbol": "1S-BTC/USD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x052814194f459aF30EdB6a506eABFc85a4D99501"
+}
