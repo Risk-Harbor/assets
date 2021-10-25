@@ -1,0 +1,11 @@
+{
+    "name": "Fuse-6 USDC",
+    "website": "https://app.rari.capital/fuse",
+    "description": "Fuse is the first truly open interest rate protocol. Lend, borrow, and create isolated lending markets with unlimited flexibility.",
+    "explorer": "https://etherscan.io/address/0xdb55b77f5e8a1a41931684cf9e4881d24e6b6cc9",
+    "type": "ERC20",
+    "symbol": "f6-USDC",
+    "decimals": 8,
+    "status": "active",
+    "id": "0xdb55B77F5E8a1a41931684Cf9e4881D24E6b6CC9"
+}

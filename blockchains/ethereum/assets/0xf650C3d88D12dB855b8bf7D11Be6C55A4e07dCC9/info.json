@@ -1,0 +1,11 @@
+{
+    "name": "Compound USDT",
+    "website": "https://compound.finance/",
+    "description": "Compound is an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications.",
+    "explorer": "https://etherscan.io/address/0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9",
+    "type": "ERC20",
+    "symbol": "cUSDT",
+    "decimals": 8,
+    "status": "active",
+    "id": "0xf650C3d88D12dB855b8bf7D11Be6C55A4e07dCC9"
+}
