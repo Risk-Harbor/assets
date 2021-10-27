@@ -1,0 +1,11 @@
+{
+    "name": "Element Principal Token ePyvUSDC",
+    "website": "https://www.element.fi/",
+    "description": "Element is an open source protocol for fixed and variable yield markets.",
+    "explorer": "https://etherscan.io/address/0xf38c3e836be9cd35072055ff6a9ba570e0b70797",
+    "type": "ERC20",
+    "symbol": "ePyvUSDC",
+    "decimals": 6,
+    "status": "active",
+    "id": "0xf38c3E836Be9cD35072055Ff6a9Ba570e0B70797"
+}
