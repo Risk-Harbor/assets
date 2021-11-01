@@ -1,0 +1,11 @@
+{
+    "name": "Curve 3pool yVault",
+    "website": "https://anchorprotocol.com/",
+    "description": "Using diversified staking yields, money markets and the ANC token incentives and governance, the Anchor Protocol composes a fully decentralized fixed income instrument.",
+    "explorer": "https://etherscan.io/address/0x84E13785B5a27879921D6F685f041421C7F482dA",
+    "type": "ERC20",
+    "symbol": "yvCurve-3pool",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x84E13785B5a27879921D6F685f041421C7F482dA"
+}
