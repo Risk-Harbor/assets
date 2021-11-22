@@ -2,10 +2,10 @@
     "name": "Alchemix",
     "website": "https://alchemix.fi/",
     "description": "Alchemix lets you reimagine the potential of DeFi by providing highly flexible instant loans that repay themselves over time.",
-    "explorer": "https://etherscan.io/address/0xe15487a42da72969372d28d1405b98aa968ed505",
-    "type": "ERC20",
+    "explorer": "https://etherscan.io/address/0xBC6DA0FE9aD5f3b0d58160288917AA56653660E9",
+    "type": "Stablecoin",
     "symbol": "alUSD",
     "decimals": 18,
     "status": "active",
-    "id": "0xe15487a42DA72969372d28d1405b98Aa968ed505"
+    "id": "0xBC6DA0FE9aD5f3b0d58160288917AA56653660E9"
 }
