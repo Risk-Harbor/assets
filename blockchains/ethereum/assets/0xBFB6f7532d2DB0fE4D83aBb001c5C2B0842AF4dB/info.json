@@ -1,0 +1,11 @@
+{
+    "name": "FeiRari FEI-3Crv Metampool Fuse",
+    "type": "ERC20",
+    "symbol": "FEI3CRV",
+    "decimals": 18,
+    "website": "https://app.rari.capital/fuse/pool/8",
+    "description": "FeiRari fuse pool 8",
+    "explorer": "https://etherscan.io/token/0xbfb6f7532d2db0fe4d83abb001c5c2b0842af4db",
+    "status": "active",
+    "id": "0xbfb6f7532d2db0fe4d83abb001c5c2b0842af4db"
+}
