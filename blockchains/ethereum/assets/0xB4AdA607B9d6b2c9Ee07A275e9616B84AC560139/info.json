@@ -1,0 +1,11 @@
+{
+    "name": "Curve FRAX Pool yVault",
+    "type": "ERC20",
+    "symbol": "yvCurve-FRAX",
+    "decimals": 18,
+    "website": "",
+    "description": "-",
+    "explorer": "https://etherscan.io/token/0xB4AdA607B9d6b2c9Ee07A275e9616B84AC560139",
+    "status": "active",
+    "id": "0xB4AdA607B9d6b2c9Ee07A275e9616B84AC560139"
+}
