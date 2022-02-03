@@ -1,0 +1,11 @@
+{
+    "name": "3S-BTC/USD",
+    "website": "",
+    "description": "Arbitrum 3S-BTC/USD",
+    "explorer": "https://arbiscan.io/token/0x85700dC0bfD128DD0e7B9eD38496A60baC698fc8",
+    "type": "ARBITRUM",
+    "symbol": "3S-BTC/USD",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x85700dC0bfD128DD0e7B9eD38496A60baC698fc8"
+}

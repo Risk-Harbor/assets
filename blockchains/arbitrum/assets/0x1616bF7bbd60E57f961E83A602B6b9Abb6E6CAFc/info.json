@@ -1,0 +1,11 @@
+{
+    "name": "1L-BTC/USD",
+    "website": "",
+    "description": "Arbitrum 1L-BTC/USD",
+    "explorer": "https://arbiscan.io/token/0x1616bF7bbd60E57f961E83A602B6b9Abb6E6CAFc",
+    "type": "ARBITRUM",
+    "symbol": "1L-BTC/USD",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x1616bF7bbd60E57f961E83A602B6b9Abb6E6CAFc"
+}

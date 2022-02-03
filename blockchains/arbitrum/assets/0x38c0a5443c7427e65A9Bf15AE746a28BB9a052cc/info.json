@@ -1,0 +1,11 @@
+{
+    "name": "1L-ETH/USD",
+    "website": "",
+    "description": "Arbitrum 1L-ETH/USD",
+    "explorer": "https://arbiscan.io/token/0x38c0a5443c7427e65A9Bf15AE746a28BB9a052cc",
+    "type": "ARBITRUM",
+    "symbol": "1L-ETH/USD",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x38c0a5443c7427e65A9Bf15AE746a28BB9a052cc"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "1S-ETH/USD",
+    "website": "",
+    "description": "Arbitrum 1S-ETH/USD",
+    "explorer": "https://arbiscan.io/token/0xf581571DBcCeD3A59AaaCbf90448E7B3E1704dcD",
+    "type": "ARBITRUM",
+    "symbol": "1S-ETH/USD",
+    "decimals": 6,
+    "status": "active",
+    "id": "0xf581571DBcCeD3A59AaaCbf90448E7B3E1704dcD"
+}

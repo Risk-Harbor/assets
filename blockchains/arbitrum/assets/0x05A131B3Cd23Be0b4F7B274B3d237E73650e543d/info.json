@@ -1,0 +1,11 @@
+{
+    "name": "3L-BTC/USD",
+    "website": "",
+    "description": "Arbitrum 3L-BTC/USD",
+    "explorer": "https://arbiscan.io/token/0x05A131B3Cd23Be0b4F7B274B3d237E73650e543d",
+    "type": "ARBITRUM",
+    "symbol": "3L-BTC/USD",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x05A131B3Cd23Be0b4F7B274B3d237E73650e543d"
+}
