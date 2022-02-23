@@ -1,0 +1,11 @@
+{
+    "name": "Stable Fox",
+    "type": "ERC20",
+    "symbol": "oneFOX",
+    "decimals": 18,
+    "website": "https://www.ichi.org/",
+    "description": "oneFOX is a stable asset backed by $FOX and $USDC for the ShapeShift community with audits by Quantstamp and Solidified.",
+    "explorer": "https://etherscan.io/token/0x03352d267951e96c6f7235037c5dfd2ab1466232",
+    "status": "active",
+    "id": "0x03352D267951E96c6F7235037C5DFD2AB1466232"
+}

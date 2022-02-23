@@ -1,0 +1,11 @@
+{
+    "name": "Stable Fuse",
+    "type": "ERC20",
+    "symbol": "oneFUSE",
+    "decimals": 18,
+    "website": "https://www.ichi.org/",
+    "description": "An ICHI built stablecoin backed by FUSE and USDC that was created as a governance and stable token that enables day-to-day mobile crypto payments.",
+    "explorer": "https://etherscan.io/token/0xbbce03b2e7f53cadca93251ca4c928af01db6404",
+    "status": "active",
+    "id": "0xBbcE03B2E7f53caDCA93251CA4c928aF01Db6404"
+}
