@@ -2,12 +2,12 @@
     "name": "Trader Joe",
     "website": "https://traderjoexyz.com/home#/",
     "description": "",
-    "explorer": "https://cchain.explorer.avax.network/address/0xBFB6f7532d2DB0fE4D83aBb001c5C2B0842AF4dB",
+    "explorer": "https://cchain.explorer.avax.network/address/0xEd6AaF91a2B084bd594DBd1245be3691F9f637aC",
     "research": "",
     "type": "AVALANCHE",
     "symbol": "jUSDC",
     "decimals": 18,
     "status": "active",
-    "id": "0xBFB6f7532d2DB0fE4D83aBb001c5C2B0842AF4dB",
+    "id": "0xEd6AaF91a2B084bd594DBd1245be3691F9f637aC",
     "links": []
 }

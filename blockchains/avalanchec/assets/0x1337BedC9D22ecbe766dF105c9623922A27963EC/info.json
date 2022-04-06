@@ -2,12 +2,12 @@
     "name": "Avax Curve",
     "website": "https://avax.curve.fi/pools",
     "description": "",
-    "explorer": "https://cchain.explorer.avax.network/address/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "explorer": "https://cchain.explorer.avax.network/address/0x1337BedC9D22ecbe766dF105c9623922A27963EC",
     "research": "",
     "type": "AVALANCHE",
     "symbol": "av3CRV",
     "decimals": 18,
     "status": "active",
-    "id": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "id": "0x1337BedC9D22ecbe766dF105c9623922A27963EC",
     "links": []
 }

@@ -2,12 +2,12 @@
     "name": "Abracadabra Money",
     "website": "https://abracadabra.money/",
     "description": "",
-    "explorer": "https://cchain.explorer.avax.network/address/0xa8De3e3c934e2A1BB08B010104CcaBBD4D6293ab",
+    "explorer": "https://cchain.explorer.avax.network/address/0x130966628846BFd36ff31a822705796e8cb8C18D",
     "research": "",
     "type": "AVALANCHE",
     "symbol": "MIM",
     "decimals": 18,
     "status": "active",
-    "id": "0xa8De3e3c934e2A1BB08B010104CcaBBD4D6293ab",
+    "id": "0x130966628846BFd36ff31a822705796e8cb8C18D",
     "links": []
 }
