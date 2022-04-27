@@ -1,0 +1,12 @@
+{
+    "name": "DAI yVault",
+    "website": "",
+    "description": "",
+    "explorer": "https://ftmscan.com/address/0x637ec617c86d24e421328e6caea1d92114892439",
+    "research": "",
+    "type": "FTM",
+    "symbol": "yvDAI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x637eC617c86D24E421328e6CAEa1d92114892439"
+}

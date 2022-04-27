@@ -1,0 +1,12 @@
+{
+    "name": "USD Coin",
+    "website": "https://www.centre.io/",
+    "description": "",
+    "explorer": "https://ftmscan.com/address/0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+    "research": "",
+    "type": "FTM",
+    "symbol": "USDC",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75"
+}

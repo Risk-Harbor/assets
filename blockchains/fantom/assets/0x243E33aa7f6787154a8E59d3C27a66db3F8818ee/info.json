@@ -1,0 +1,12 @@
+{
+    "name": "Hundred USDC",
+    "website": "",
+    "description": "",
+    "explorer": "https://ftmscan.com/address/0x243E33aa7f6787154a8E59d3C27a66db3F8818ee?a=0x243e33aa7f6787154a8e59d3c27a66db3f8818ee",
+    "research": "",
+    "type": "FTM",
+    "symbol": "hUSDC",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x243E33aa7f6787154a8E59d3C27a66db3F8818ee"
+}

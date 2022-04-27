@@ -1,0 +1,12 @@
+{
+    "name": "Geist USDC",
+    "website": "https://geist.finance/markets",
+    "description": "",
+    "explorer": "https://ftmscan.com/address/0xe578c856933d8e1082740bf7661e379aa2a30b26",
+    "research": "",
+    "type": "FTM",
+    "symbol": "gUSDC",
+    "decimals": 6,
+    "status": "active",
+    "id": "0xe578C856933D8e1082740bf7661e379Aa2A30b26"
+}
