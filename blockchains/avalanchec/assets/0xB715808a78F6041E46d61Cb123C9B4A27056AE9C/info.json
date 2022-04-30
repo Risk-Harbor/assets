@@ -2,12 +2,12 @@
     "name": "Benqi",
     "website": "https://benqi.fi/",
     "description": "",
-    "explorer": "https://cchain.explorer.avax.network/address/0xBEb5d47A3f720Ec0a390d04b4d41ED7d9688bC7F",
+    "explorer": "https://cchain.explorer.avax.network/address/0xB715808a78F6041E46d61Cb123C9B4A27056AE9C",
     "research": "",
     "type": "AVALANCHE",
-    "symbol": "qiUSDC",
+    "symbol": "qiUSDCn",
     "decimals": 8,
     "status": "active",
-    "id": "0xBEb5d47A3f720Ec0a390d04b4d41ED7d9688bC7F",
+    "id": "0xB715808a78F6041E46d61Cb123C9B4A27056AE9C",
     "links": []
 }
