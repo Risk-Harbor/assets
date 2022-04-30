@@ -1,0 +1,11 @@
+{
+    "name": "Element Principal Token yvCurve-LUSD-16SEP22",
+    "type": "ERC20",
+    "symbol": "ePyvCurve-alUSD-29APR22",
+    "decimals": 18,
+    "website": "https://www.element.fi/",
+    "description": "-",
+    "explorer": "https://etherscan.io/address/0x83d392a7be901892a8c861c96Ea430B8d9c2BD51",
+    "status": "active",
+    "id": "0x83d392a7be901892a8c861c96Ea430B8d9c2BD51"
+}
