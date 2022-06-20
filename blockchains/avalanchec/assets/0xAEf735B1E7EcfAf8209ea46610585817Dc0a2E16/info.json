@@ -1,0 +1,13 @@
+{
+    "name": "Platypus USDC Asset",
+    "website": "https://platypus.finance/",
+    "description": "",
+    "explorer": "https://cchain.explorer.avax.network/address/0xAEf735B1E7EcfAf8209ea46610585817Dc0a2E16",
+    "research": "",
+    "type": "AVALANCHE",
+    "symbol": "LP-USDC",
+    "decimals": 6,
+    "status": "active",
+    "id": "0xAEf735B1E7EcfAf8209ea46610585817Dc0a2E16",
+    "links": []
+}

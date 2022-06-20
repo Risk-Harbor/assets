@@ -1,0 +1,13 @@
+{
+    "name": "TetherToken",
+    "website": "https://tether.to",
+    "description": "",
+    "explorer": "https://cchain.explorer.avax.network/address/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+    "research": "",
+    "type": "AVALANCHE",
+    "symbol": "USDt",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+    "links": []
+}
