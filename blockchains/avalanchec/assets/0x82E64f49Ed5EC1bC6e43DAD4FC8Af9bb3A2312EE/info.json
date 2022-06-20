@@ -1,0 +1,13 @@
+{
+    "name": "Aave Avalanche DAI",
+    "website": "https://aave.com/",
+    "description": "",
+    "explorer": "https://cchain.explorer.avax.network/address/0x82E64f49Ed5EC1bC6e43DAD4FC8Af9bb3A2312EE",
+    "research": "",
+    "type": "AVALANCHE",
+    "symbol": "aAvaDAI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x82E64f49Ed5EC1bC6e43DAD4FC8Af9bb3A2312EE",
+    "links": []
+}

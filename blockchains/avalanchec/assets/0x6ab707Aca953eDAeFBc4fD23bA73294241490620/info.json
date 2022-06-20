@@ -1,0 +1,13 @@
+{
+    "name": "Aave Avalanche USDT",
+    "website": "https://aave.com/",
+    "description": "",
+    "explorer": "https://cchain.explorer.avax.network/address/0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
+    "research": "",
+    "type": "AVALANCHE",
+    "symbol": "aAvaUSDT",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
+    "links": []
+}
