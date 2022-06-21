@@ -1,0 +1,13 @@
+{
+    "name": "USD Coin",
+    "website": "https://www.coinbase.com/",
+    "description": "",
+    "explorer": "https://aurorascan.dev/token/0xb12bfca5a55806aaf64e99521918a4bf0fc40802",
+    "research": "",
+    "type": "AURORA",
+    "symbol": "USDC",
+    "decimals": 6,
+    "status": "active",
+    "id": "0xB12BFcA5A55806AaF64E99521918A4bf0fC40802",
+    "links": []
+}

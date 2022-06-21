@@ -1,0 +1,13 @@
+{
+    "name": "Bastion Tether USD",
+    "website": "https://bastionprotocol.com/",
+    "description": "",
+    "explorer": "https://aurorascan.dev/token/0x845E15A441CFC1871B7AC610b0E922019BaD9826",
+    "research": "",
+    "type": "AURORA",
+    "symbol": "cUSDT",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x845E15A441CFC1871B7AC610b0E922019BaD9826",
+    "links": []
+}

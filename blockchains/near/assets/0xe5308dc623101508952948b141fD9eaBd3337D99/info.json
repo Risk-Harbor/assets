@@ -1,0 +1,13 @@
+{
+    "name": "Bastion USD Coinbase",
+    "website": "https://bastionprotocol.com/",
+    "description": "",
+    "explorer": "https://aurorascan.dev/token/0xe5308dc623101508952948b141fD9eaBd3337D99",
+    "research": "",
+    "type": "AURORA",
+    "symbol": "cUSDC",
+    "decimals": 8,
+    "status": "active",
+    "id": "0xe5308dc623101508952948b141fD9eaBd3337D99",
+    "links": []
+}
