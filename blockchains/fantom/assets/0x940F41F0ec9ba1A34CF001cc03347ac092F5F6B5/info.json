@@ -1,0 +1,12 @@
+{
+    "name": "Geist fUSDT",
+    "website": "https://geist.finance",
+    "description": "",
+    "explorer": "https://ftmscan.com/address/0x940F41F0ec9ba1A34CF001cc03347ac092F5F6B5",
+    "research": "",
+    "type": "FTM",
+    "symbol": "gfUSDT",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x940F41F0ec9ba1A34CF001cc03347ac092F5F6B5"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Geist DAI",
+    "website": "https://geist.finance",
+    "description": "",
+    "explorer": "https://ftmscan.com/address/0x07E6332dD090D287d3489245038daF987955DCFB",
+    "research": "",
+    "type": "FTM",
+    "symbol": "gDAI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x07E6332dD090D287d3489245038daF987955DCFB"
+}
