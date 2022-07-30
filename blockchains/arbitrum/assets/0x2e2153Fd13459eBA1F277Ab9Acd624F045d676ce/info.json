@@ -1,0 +1,11 @@
+{
+    "name": "Umami Finance",
+    "website": "https://umami.finance/",
+    "description": "Arbitrum glpUSDC",
+    "explorer": "https://arbiscan.io/token/0x2e2153Fd13459eBA1F277Ab9Acd624F045d676ce",
+    "type": "ARBITRUM",
+    "symbol": "glpUSDC",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x2e2153Fd13459eBA1F277Ab9Acd624F045d676ce"
+}

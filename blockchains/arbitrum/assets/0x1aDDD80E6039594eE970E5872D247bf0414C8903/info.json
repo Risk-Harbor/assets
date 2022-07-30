@@ -1,0 +1,11 @@
+{
+    "name": "Fee + Staked GLP",
+    "website": "",
+    "description": "Arbitrum fsGLP",
+    "explorer": "https://arbiscan.io/token/0x1addd80e6039594ee970e5872d247bf0414c8903",
+    "type": "ARBITRUM",
+    "symbol": "fsGLP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1aDDD80E6039594eE970E5872D247bf0414C8903"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "USD Coin (Arb1)-LP (S*USDC)",
+    "website": "",
+    "description": "Arbitrum S*USDC",
+    "explorer": "https://arbiscan.io/token/0x892785f33cdee22a30aef750f285e18c18040c3e",
+    "type": "ARBITRUM",
+    "symbol": "S*USDC",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x892785f33CdeE22A30AEF750F285E18c18040c3e"
+}
