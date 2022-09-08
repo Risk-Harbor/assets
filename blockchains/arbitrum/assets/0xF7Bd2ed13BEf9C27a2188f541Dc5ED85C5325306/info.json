@@ -1,0 +1,11 @@
+{
+    "name": "Fee + Staked MLP",
+    "website": "",
+    "description": "Arbitrum S*USDC",
+    "explorer": "https://arbiscan.io/token/0xF7Bd2ed13BEf9C27a2188f541Dc5ED85C5325306",
+    "type": "ARBITRUM",
+    "symbol": "fsMLP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xF7Bd2ed13BEf9C27a2188f541Dc5ED85C5325306"
+}
