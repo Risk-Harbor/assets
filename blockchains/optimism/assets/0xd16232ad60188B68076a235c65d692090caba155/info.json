@@ -1,0 +1,13 @@
+{
+    "name": "StableV1 AMM - USDC/sUSD",
+    "website": "",
+    "description": "",
+    "explorer": "https://optimistic.etherscan.io/token/0xd16232ad60188B68076a235c65d692090caba155",
+    "research": "",
+    "type": "OPTIMISM",
+    "symbol": "sAMM-USDC/sUSD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd16232ad60188B68076a235c65d692090caba155",
+    "links": []
+}

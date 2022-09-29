@@ -1,0 +1,13 @@
+{
+    "name": "USD Coin",
+    "website": "https://www.centre.io/",
+    "description": "",
+    "explorer": "https://optimistic.etherscan.io/token/0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+    "research": "",
+    "type": "OPTIMISM",
+    "symbol": "USDC",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+    "links": []
+}

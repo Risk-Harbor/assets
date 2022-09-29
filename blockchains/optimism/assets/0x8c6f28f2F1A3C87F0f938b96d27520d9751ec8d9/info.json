@@ -1,0 +1,13 @@
+{
+    "name": "Synth sUSD",
+    "website": "https://www.synthetix.io/",
+    "description": "",
+    "explorer": "https://optimistic.etherscan.io/token/0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
+    "research": "",
+    "type": "OPTIMISM",
+    "symbol": "sUSD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+    "links": []
+}

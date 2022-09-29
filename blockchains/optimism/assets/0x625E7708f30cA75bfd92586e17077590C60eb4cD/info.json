@@ -1,0 +1,13 @@
+{
+    "name": "Aave Optimism USDC",
+    "website": "https://aave.com",
+    "description": "Aave USDC is an interest bearing token pegged 1:1 to the underlying USDC deposited in Aave. aUSDC accrue interest in real time in your wallet.",
+    "explorer": "https://optimistic.etherscan.io/token/0x625E7708f30cA75bfd92586e17077590C60eb4cD",
+    "research": "",
+    "type": "OPTIMISM",
+    "symbol": "aOptUSDC",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x625E7708f30cA75bfd92586e17077590C60eb4cD",
+    "links": []
+}
