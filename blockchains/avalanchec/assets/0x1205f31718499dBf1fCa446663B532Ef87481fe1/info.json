@@ -1,0 +1,11 @@
+{
+    "name": "USD Coin-LP",
+    "website": "",
+    "description": "Avalanche USD Coin-LP",
+    "explorer": "https://snowtrace.io/token/0x1205f31718499dbf1fca446663b532ef87481fe1",
+    "type": "AVALANCHE",
+    "symbol": "S*USDC",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x1205f31718499dBf1fCa446663B532Ef87481fe1"
+}

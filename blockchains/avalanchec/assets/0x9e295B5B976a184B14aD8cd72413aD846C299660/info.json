@@ -1,0 +1,11 @@
+{
+    "name": "Fee + Staked GLP",
+    "website": "",
+    "description": "Avalanche fsGLP",
+    "explorer": "https://snowtrace.io/token/0x9e295b5b976a184b14ad8cd72413ad846c299660",
+    "type": "AVALANCHE",
+    "symbol": "fsGLP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9e295B5B976a184B14aD8cd72413aD846C299660"
+}
