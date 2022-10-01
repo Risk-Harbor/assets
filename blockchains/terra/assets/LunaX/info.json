@@ -1,0 +1,12 @@
+{
+    "name": "Stader LunaX Token",
+    "website": "https://staderlabs.com/",
+    "description": "TerraKRW is the first decentralized stablecoin that is scalable, yield bearing and interchain.",
+    "explorer": "https://finder.terra.money/mainnet/address/terra14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2qvzyanh",
+    "type": "TERRA",
+    "symbol": "LunaX",
+    "decimals": 6,
+    "status": "active",
+    "id": "LunaX",
+    "links": []
+}

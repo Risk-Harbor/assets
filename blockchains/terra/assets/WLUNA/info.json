@@ -1,0 +1,12 @@
+{
+    "name": "Wrapped LUNA",
+    "website": "",
+    "description": "Wrapped LUNA",
+    "explorer": "https://finder.terra.money/mainnet/address/terra1ufj34v4agxlazv6gv36fsdm5e8y4kclqgp0qt0l8ureql9pcwssspma238",
+    "type": "TERRA",
+    "symbol": "WLUNA",
+    "decimals": 6,
+    "status": "active",
+    "id": "WLUNA",
+    "links": []
+}
