@@ -1,0 +1,12 @@
+{
+    "name": "Eris Amplified LUNA",
+    "website": "https://www.erisprotocol.com",
+    "description": "Liquid staking protocol that automates slow burn arbitrage strategies on Terra.",
+    "explorer": "https://finder.terra.money/mainnet/address/terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct",
+    "type": "TERRA",
+    "symbol": "ampLuna",
+    "decimals": 6,
+    "status": "active",
+    "id": "ampLuna",
+    "links": []
+}
