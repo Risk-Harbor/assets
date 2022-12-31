@@ -1,0 +1,11 @@
+{
+    "name": "Staked GLP",
+    "website": "",
+    "description": "Avalanche sGLP",
+    "explorer": "https://snowtrace.io/token/0xaE64d55a6f09E4263421737397D1fdFA71896a69",
+    "type": "AVALANCHE",
+    "symbol": "sGLP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xaE64d55a6f09E4263421737397D1fdFA71896a69"
+}
