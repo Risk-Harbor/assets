@@ -1,0 +1,11 @@
+{
+    "name": "Staked MLP",
+    "website": "",
+    "description": "",
+    "explorer": "https://arbiscan.io/token/0xF0BFB95087E611897096982c33B6934C8aBfA083",
+    "type": "ARBITRUM",
+    "symbol": "sMLP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xF0BFB95087E611897096982c33B6934C8aBfA083"
+}
