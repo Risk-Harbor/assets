@@ -1,0 +1,11 @@
+{
+    "name": "Gains Network DAI",
+    "website": "https://gainsnetwork.io/",
+    "description": "",
+    "explorer": "https://arbiscan.io/token/0xd85e038593d7a098614721eae955ec2022b9b91b",
+    "type": "ARBITRUM",
+    "symbol": "gDAI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd85E038593d7A098614721EaE955EC2022B9B91B"
+}
