@@ -1,0 +1,11 @@
+{
+    "name": "ChickenBondsWrapper",
+    "symbol": "rhCBW",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://etherscan.io/token/0x6b2Dd17De299c393a4F71a962739567533af7BCf",
+    "status": "active",
+    "id": "0x6b2Dd17De299c393a4F71a962739567533af7BCf"
+}
