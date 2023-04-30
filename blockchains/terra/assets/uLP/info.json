@@ -1,0 +1,12 @@
+{
+    "name": "Axelar USDC/USDT LP",
+    "website": "https://axelar.network/",
+    "description": "",
+    "explorer": "",
+    "type": "TERRA",
+    "symbol": "uLP",
+    "decimals": 6,
+    "status": "active",
+    "id": "uLP",
+    "links": []
+}
