@@ -1,0 +1,11 @@
+{
+    "name": "Pendle",
+    "website": "",
+    "description": "Pendle Principal Token",
+    "explorer": "https://arbiscan.io/token/0x96015d0fb97139567a9ba675951816a0bb719e3c",
+    "type": "ARBITRUM",
+    "symbol": "PT GLP 28MAR2024",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x96015D0Fb97139567a9ba675951816a0Bb719E3c"
+}
