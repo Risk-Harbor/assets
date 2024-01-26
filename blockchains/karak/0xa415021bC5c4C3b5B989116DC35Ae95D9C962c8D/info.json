@@ -1,0 +1,13 @@
+{
+    "name": "USD Coin Bridged",
+    "website": "https://www.coinbase.com/",
+    "description": "",
+    "explorer": "https://explorer.karak.network/token/0xa415021bC5c4C3b5B989116DC35Ae95D9C962c8D",
+    "research": "",
+    "type": "KARAK",
+    "symbol": "USDC",
+    "decimals": 6,
+    "status": "active",
+    "id": "0xa415021bC5c4C3b5B989116DC35Ae95D9C962c8D",
+    "links": []
+}
