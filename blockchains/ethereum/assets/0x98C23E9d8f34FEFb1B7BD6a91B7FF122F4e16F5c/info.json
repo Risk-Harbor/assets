@@ -1,0 +1,11 @@
+{
+    "name": "Aave Ethereum USDC",
+    "symbol": "aEthUSDC",
+    "type": "ERC20",
+    "decimals": 6,
+    "description": "-",
+    "website": "https://aave.com/",
+    "explorer": "https://etherscan.io/token/0x98C23E9d8f34FEFb1B7BD6a91B7FF122F4e16F5c",
+    "status": "active",
+    "id": "0x98C23E9d8f34FEFb1B7BD6a91B7FF122F4e16F5c"
+}

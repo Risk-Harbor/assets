@@ -1,0 +1,13 @@
+{
+    "name": "Aave Optimism USDCn",
+    "website": "https://aave.com/",
+    "description": "",
+    "explorer": "https://optimistic.etherscan.io/token/0x38d693cE1dF5AaDF7bC62595A37D667aD57922e5",
+    "research": "",
+    "type": "OPTIMISM",
+    "symbol": "aOptUSDCn",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x38d693cE1dF5AaDF7bC62595A37D667aD57922e5",
+    "links": []
+}

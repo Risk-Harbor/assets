@@ -1,0 +1,11 @@
+{
+    "name": "Aave Arbitrum USDCn",
+    "website": "https://aave.com/",
+    "description": "Aave Arbitrum USDCn",
+    "explorer": "https://arbiscan.io/token/0x724dc807b04555b71ed48a6896b6F41593b8C637",
+    "type": "ARBITRUM",
+    "symbol": "aArbUSDCn",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x724dc807b04555b71ed48a6896b6F41593b8C637"
+}
